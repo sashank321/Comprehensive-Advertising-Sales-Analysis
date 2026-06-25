@@ -1,0 +1,16 @@
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Temporary Build Files
+temp_dissertation.pdf
+temp_cleaned.pdf
+temp_final.pdf
+dissertation_staged.html
+
+# Virtual Environments
+.env
+.venv
+venv/
+env/
